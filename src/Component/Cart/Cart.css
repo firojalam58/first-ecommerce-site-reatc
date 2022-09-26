@@ -1,0 +1,10 @@
+
+
+.Cart{
+    position: sticky;
+    top: 0;
+    padding: 30px;
+}
+.Cart h2{
+    text-align: center;
+}
